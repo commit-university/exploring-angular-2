@@ -18,6 +18,4 @@ import { Component } from '@angular/core';
   <!-- Router insertion point -->
   <router-outlet></router-outlet>`
 })
-export class AppComponent {
-  title = 'app works!';
-}
+export class AppComponent {}
