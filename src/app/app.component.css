@@ -1,0 +1,9 @@
+.nav {
+  line-height: 35px;
+  margin-bottom: 50px;
+}
+
+.nav > a {
+  padding: 5px;
+  background-color: yellow;
+}

@@ -5,7 +5,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css'],
   template: `
   <h1>Angular 2 Commit University</h1>
-  <nav>
+  <nav class="nav">
     <a routerLink="/" routerLinkActive="active">HOME</a>
     <a routerLink="/inputs" routerLinkActive="active">Component inputs</a>
     <a routerLink="/outputs" routerLinkActive="active">Component events</a>
