@@ -1,6 +1,10 @@
-# DemoProject
+# Exploring Angular 2 @ Commit University
 
-This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.20-4.
+Example project made with [angular-cli](https://github.com/angular/angular-cli) for the talk on Angular 2 at Commit University the 22th of November 2016 made by [Matteo Ronchi](https://github.com/cef62).
+
+---
+
+`angular-cli` generated instructions:
 
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
